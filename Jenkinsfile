@@ -1,4 +1,2 @@
-#!groovy
-# test!!
 node {
 }
